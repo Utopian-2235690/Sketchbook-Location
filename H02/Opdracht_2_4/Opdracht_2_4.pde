@@ -1,9 +1,7 @@
-size(275,130);
-background(0,0,0);
+size(640,480);
+background(255,255,255);
 
-fill(255,255,255);
-text("Hier een begin,", 80, 60);
-fill(255,255,255);
-text("is waar het eindigt,", 80, 70);
-fill(255,215,0);
-text("want hier kan je tekst zetten.", 80, 80);
+fill(255,255,0);
+text("Shiloh ", 243, 240);
+fill(0,0,255);
+text("Frazão Kamerling", 280, 240);
